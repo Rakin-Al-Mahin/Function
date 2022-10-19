@@ -1,2 +1,2 @@
 # Fucntion
-Function related codes
+Function related codes in C language
